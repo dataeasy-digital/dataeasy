@@ -1,5 +1,7 @@
 # Machine Learning Experiments
 
+Objective is to make **YOU** understand about data science in practice, without complications, without unnecessary lines
+
 ## Supervised Learning
 
 In supervised learning we have a set of training data as an input and a set of labels or "correct answers" for each training set as an output. Then we're training our model (machine learning algorithm parameters) to map the input to the output correctly (to do correct prediction). The ultimate purpose is to find such model parameters that will successfully continue correct _input→output_ mapping (predictions) even for new input examples.
@@ -114,10 +116,3 @@ Each algorithm section contains demo links to [Jupyter NBViewer](http://nbviewer
 
 ![](./images/binder-button-place.png)
 
-## Datasets
-
-The list of datasets that is being used for Jupyter Notebook demos may be found in [data folder](data).
-
-## Supporting the project
-
-You may support this project via ❤️️ [GitHub](https://github.com/sponsors/trekhleb) or ❤️️ [Patreon](https://www.patreon.com/trekhleb).
